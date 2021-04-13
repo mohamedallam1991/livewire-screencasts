@@ -1,15 +1,15 @@
 <!DOCTYPE html>
-<html">
+<html>
     <head>
         <title> livewire screencasts </title>
 
-        @livwireStyles
+        @livewireStyles
     </head>
     <body>
-        @livewire('hello world')
+        @livewire('hello-world')
 
 
-        @scriptsScripts
+        @livewireScripts
      
     </body>
 </html>
