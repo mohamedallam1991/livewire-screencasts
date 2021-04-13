@@ -2,9 +2,14 @@
 <html">
     <head>
         <title> livewire screencasts </title>
+
+        @livwireStyles
     </head>
     <body>
-        hello world
+        @livewire('hello world')
+
+
+        @scriptsScripts
      
     </body>
 </html>
